@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kapindra Upreti
 
-**A passionate AI/ML, Software enthusiast, Problem Solving, and Development. My journey in tech is driven by a relentless curiosity and a deep desire to build impactful solutions. I'm from Kathmandu, Nepal.🧑‍💻#Software Development #AI/ML #CyberSecurity #Web Development #DSA**
+**A passionate AI/ML, Software enthusiast, Problem Solving, and Development. My journey in tech is driven by a relentless curiosity and a deep desire to build impactful solutions. Let's build something extraordinary together! I'm from Kathmandu, Nepal.🧑‍💻#Software Development #AI/ML #CyberSecurity #Web Development #DSA**
 
 Email Me 👉 ✉️ **upretikapindra28@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
