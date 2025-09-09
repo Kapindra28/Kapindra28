@@ -1,10 +1,9 @@
-# 💫 Hi 👋, I'm Kapindra Upreti
+# Hi 👋, I'm Kapindra Upreti
 
-**A passionate Software Engineering, AI/ML, Problem Solving, and Development. My journey in tech is driven by a relentless curiosity and a deep desire to build impactful solutions.🧑‍💻#Software Development #AI #CyberSecurity #Web Development #DSA from Nepal**
+**A passionate AI/ML, Software enthusiast, AI/ML, Problem Solving, and Development. My journey in tech is driven by a relentless curiosity and a deep desire to build impactful solutions.🧑‍💻#Software Development #AI/ML #CyberSecurity #Web Development #DSA from Nepal.**
 
 Email Me 👉 ✉️ **upretikapindra28@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Bachelor in Computer Engineering.
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
@@ -13,7 +12,7 @@ Email Me 👉 ✉️ **upretikapindra28@gmail.com** For Collaboration/Project or
 - 😄 **Pronouns:** 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a Computer Engineering Students. 😊😊
+## 🔗 I am a BE. Second year Computer Engineering Students. 😊😊
 
 
 ## 🌐 Socials:
