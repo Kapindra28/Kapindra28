@@ -10,9 +10,13 @@ Email Me 👉 ✉️ **upretikapindra28@gmail.com** For Collaboration/Project or
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** upretikapindra28@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
 ## 🔗 I am a BE. Second year Computer Engineering Student. 😊😊
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100071523920648&ref=_ig_profile_ac) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kapindra.02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BsUFK1MHDQMObOZh2r8hk9Q%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:upretikapindra28@gmail.com) 
