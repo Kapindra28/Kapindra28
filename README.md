@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **upretikapindra28@gmail.com** For Collaboration/Project or
 - 📫 **How to reach me:** upretikapindra28@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a BE. Second year Computer Engineering Students. 😊😊
+## 🔗 I am a BE. Second year Computer Engineering Student. 😊😊
 
 
 ## 🌐 Socials:
